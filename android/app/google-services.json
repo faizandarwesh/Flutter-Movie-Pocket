@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "865890482477",
+    "firebase_url": "https://maximal-osprey-272108.firebaseio.com",
+    "project_id": "maximal-osprey-272108",
+    "storage_bucket": "maximal-osprey-272108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865890482477:android:fb331451cba9dea2a9bba4",
+        "android_client_info": {
+          "package_name": "com.example.eshoppy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865890482477-3uo0tfbos8eib9asbi953o3132qk6rbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZLzI0lFlPVwwZTODK-NhHH35wrIdzfT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865890482477-3uo0tfbos8eib9asbi953o3132qk6rbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
