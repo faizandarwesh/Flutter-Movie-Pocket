@@ -94,6 +94,12 @@ class _RegisterScreenState extends State<RegisterPage> {
                   border: Border.all(color: Color(0xFFB40284A))
               ),
               child: TextFormField(
+                validator: (value){
+                  if(value == ""){
+                    return "Confirm Password field can't left blank";
+                  }
+                  return null;
+                },
                 obscureText: true,
                 decoration: InputDecoration(
                     border: InputBorder.none,
